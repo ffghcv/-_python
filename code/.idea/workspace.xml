@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e57626a-9d9f-4c6f-b726-5bb4be9eccf2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cp4.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cp3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cp3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cp4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cp4.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,6 +126,12 @@
       <workItem from="1576987575863" duration="196000" />
       <workItem from="1576987785920" duration="1621000" />
       <workItem from="1576991854582" duration="2822000" />
+      <workItem from="1576999510836" duration="599000" />
+      <workItem from="1577003186781" duration="1298000" />
+      <workItem from="1577019780781" duration="2000" />
+      <workItem from="1577063842351" duration="9055000" />
+      <workItem from="1577088964636" duration="1079000" />
+      <workItem from="1577152456739" duration="5124000" />
     </task>
     <servers />
   </component>
